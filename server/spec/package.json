@@ -1,5 +1,5 @@
 {
-  "name": "j-stats-server-spec",
+  "name": "react-express-template-server-spec",
   "version": "1.0.0",
   "description": "this will have the specific configuration for the server tests",
   "main": "index.js",

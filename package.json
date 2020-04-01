@@ -1,7 +1,7 @@
 {
-  "name": "j-stats",
+  "name": "react-express-template",
   "version": "1.0.0",
-  "description": "Utah Jazz player stats and graphs",
+  "description": "",
   "main": "index.js",
   "scripts": {
     "build": "webpack --mode production",
@@ -11,14 +11,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/trevor2355/j-stats.git"
+    "url": "git+https://github.com/trevor2355/react-express-template.git"
   },
   "author": "Trevor Bell",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/trevor2355/j-stats/issues"
+    "url": "https://github.com/trevor2355/react-express-template/issues"
   },
-  "homepage": "https://github.com/trevor2355/j-stats#readme",
+  "homepage": "https://github.com/trevor2355/react-express-template#readme",
   "dependencies": {
     "express": "^4.17.1",
     "morgan": "^1.10.0",
